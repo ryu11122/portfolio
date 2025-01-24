@@ -35,11 +35,11 @@ $(document).ready(function () {
         $('html').toggleClass('press')
         $('.press').addClass('on')
     })
-    $('.box>img').mouseenter(function(){
-        $('audio').play();
-    })
+    var audio = new Audio('audio/coin.mp3')
     
-
+$('.box>img').hover(function(){
+    audio.play();
+})
 
     setInterval(function () {
 
