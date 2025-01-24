@@ -1,3 +1,26 @@
+const audio1 = document.querySelector('.img1');
+const audio2 = document.querySelector('.img2');
+const audio3 = document.querySelector('.img3');
+const audio4 = document.querySelector('.img4');
+const audio5 = document.querySelector('.img5');
+const au = document.querySelector('audio')
+audio1.addEventListener('mouseenter',function(){
+    au.play()
+})
+audio2.addEventListener('mouseenter',function(){
+    au.play()
+})
+audio3.addEventListener('mouseenter',function(){
+    au.play()
+})
+audio4.addEventListener('mouseenter',function(){
+    au.play()
+})
+audio5.addEventListener('mouseenter',function(){
+    au.play()
+})
+
+
 $(document).ready(function () {
 
     $('.box>img').hover(function () {
@@ -35,12 +58,8 @@ $(document).ready(function () {
         $('html').toggleClass('press')
         $('.press').addClass('on')
     })
-    var audio = new Audio('audio/coin.mp3')
-    
-$('.box>img').hover(function(){
-    audio.play();
-})
 
+      
     setInterval(function () {
 
         function randomN(min, max) {
