@@ -1,0 +1,6 @@
+User-agent :*
+Allow : /
+
+Yeti : naver
+gogglebot : google
+daumoa : daum

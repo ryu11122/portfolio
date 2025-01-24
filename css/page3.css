@@ -1,0 +1,55 @@
+@charset "utf-8";
+@font-face {
+    font-family: fa;
+    src: url('../font/DungGeunMo.otf');
+}
+html{
+    cursor: url('../img/c3.png')32 32, auto;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'fa';
+   
+}
+body{
+    background: url('../img/c4.png') no-repeat 0 0/cover;
+    height: 100vh;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.arr{
+    display: block;
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    width: 5rem;
+    height: 5rem;
+    background: url('../img/31.png') no-repeat center/cover;
+}
+.arr:hover{
+    cursor: url('../img/c7.png')32 32, pointer;
+}
+
+.text{
+    width: 73%;
+    left: 42%;
+    transform: translate(-50%);
+    justify-content: space-around;
+    bottom: 15rem;
+    position: absolute;
+    display: flex;
+}
+.text>a{
+    color: white;
+    display: block;
+    font-size: 3rem;
+    width: 3rem;
+}
+
+.text>a:hover{
+    cursor: url('../img/test2.png')32 32, pointer;
+}

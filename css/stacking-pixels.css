@@ -1,0 +1,1239 @@
+@charset "utf-8";
+
+
+
+
+.nav1{
+    position: relative;
+    height: inherit;
+    overflow: hidden;
+}
+.nav{
+    position: absolute;
+    width: 7.5rem;
+    height: 7.5rem;
+}
+.nav2{
+    left: 57.5rem;
+    top: 15rem;
+}
+.nav3{
+    left: 57.5rem;
+    top: 22.5rem;
+}
+.nav4{
+    left: 57.5rem;
+    top: 30rem;
+}
+.nav5{
+    left: 57.5rem;
+    top: 37.5rem;
+}
+.nav6{
+    left: 57.5rem;
+    top: 45rem;
+}
+.nav7{
+    left: 65rem;
+    top: 15rem;
+}
+.nav8{
+    left: 72.5rem;
+    top: 15rem;
+}
+.nav9{
+    left: 72.5rem;
+    top: 22.5rem;
+}
+.nav10{
+    left: 72.5rem;
+    top: 30rem;
+}
+.nav11{
+    left: 65rem;
+    top: 30rem;
+}
+/* P */
+/* O */
+
+.nav12{
+    left: 95rem;
+    top: 15rem;
+}
+.nav13{
+    left: 102.5rem;
+    top: 15rem;
+}
+.nav14{
+    left: 87.5rem;
+    top: 22.5rem;
+}
+.nav15{
+    left: 87.5rem;
+    top: 30rem;
+}
+.nav16{
+    left: 87.5rem;
+    top: 37.5rem;
+}
+.nav17{
+    left: 95rem;
+    top: 45rem;
+}
+.nav18{
+    left: 102.5rem;
+    top: 45rem;
+}
+.nav19{
+    left: 87.5rem;
+    top: 45rem;
+}
+.nav20{
+    left: 102.5rem;
+    top: 37.5rem;
+}
+.nav21{
+    left: 102.5rem;
+    top: 30rem;
+}
+.nav22{
+    left: 102.5rem;
+    top: 22.5rem;
+}
+.nav23{
+    left: 87.5rem;
+    top: 15rem;
+}
+/* O */
+/* R */
+
+.nav24{
+    left: 117.5rem;
+    top: 15rem;
+}
+.nav25{
+    left: 117.5rem;
+    top: 22.5rem;
+}
+.nav26{
+    left: 117.5rem;
+    top: 37.5rem;
+}
+.nav27{
+    left: 117.5rem;
+    top: 45rem;
+}
+.nav28{
+    left: 125rem;
+    top: 15rem;
+}
+.nav29{
+    left: 132.5rem;
+    top: 15rem;
+}
+.nav30{
+    left: 132.5rem;
+    top: 22.5rem;
+}
+.nav31{
+    left: 132.5rem;
+    top: 30rem;
+}
+.nav32{
+    left: 125rem;
+    top: 30rem;
+}
+.nav33{
+    left: 125rem;
+    top: 37.5rem;
+}
+.nav34{
+    left: 132.5rem;
+    top: 45rem;
+}
+.nav35{
+    left: 117.5rem;
+    top: 30rem;
+}
+/* R */
+/* T */
+.nav36{
+    left: 155rem;
+    top: 30rem;
+}
+.nav37{
+    left: 155rem;
+    top: 22.5rem;
+}
+.nav38{
+    left: 155rem;
+    top: 15rem;
+}
+.nav39{
+    left: 155rem;
+    top: 37.5rem;
+}
+.nav40{
+    left: 155rem;
+    top: 45rem;
+}
+.nav41{
+    left: 147.5rem;
+    top: 15rem;
+}
+.nav42{
+    left: 162.5rem;
+    top: 15rem;
+}
+
+/* T */
+/* F */
+.nav43{
+    left: 42.5rem;
+    top: 60rem;
+}
+.nav44{
+    left: 42.5rem;
+    top: 67.5rem;
+}
+.nav45{
+    left: 42.5rem;
+    top: 75rem;
+}
+.nav46{
+    left: 42.5rem;
+    top: 82.5rem;
+}
+.nav47{
+    left: 42.5rem;
+    top: 90rem;
+}
+.nav48{
+    left: 50rem;
+    top: 60rem;
+}
+.nav49{
+    left: 57.5rem;
+    top: 60rem;
+}
+.nav50{
+    left: 50rem;
+    top: 75rem;
+}
+.nav51{
+    left: 57.5rem;
+    top: 75rem;
+}
+/* F */
+/* O */
+.nav52{
+    left: 72.5rem;
+    top: 60rem;
+}
+.nav53{
+    left: 72.5rem;
+    top: 67.5rem;
+}
+.nav54{
+    left: 72.5rem;
+    top: 75rem;
+}
+.nav55{
+    left: 72.5rem;
+    top: 82.5rem;
+}
+.nav56{
+    left: 72.5rem;
+    top: 90rem;
+}
+.nav57{
+    left: 80rem;
+    top: 60rem;
+}
+.nav58{
+    left: 87.5rem;
+    top: 60rem;
+}
+.nav59{
+    left: 87.5rem;
+    top: 67.5rem;
+}
+.nav60{
+    left: 87.5rem;
+    top: 75rem;
+}
+.nav61{
+    left: 87.5rem;
+    top: 82.5rem;
+}
+.nav62{
+    left: 87.5rem;
+    top: 90rem;
+}
+.nav63{
+    left: 80rem;
+    top: 90rem;
+}
+
+/* O */
+/* L */
+
+.nav64{
+    left: 102.5rem;
+    top: 60rem;
+}
+.nav65{
+    left: 102.5rem;
+    top: 67.5rem;
+}
+.nav66{
+    left: 102.5rem;
+    top: 75rem;
+}
+.nav67{
+    left: 102.5rem;
+    top: 82.5rem;
+}
+.nav68{
+    left: 102.5rem;
+    top: 90rem;
+}
+.nav69{
+    left: 110rem;
+    top: 90rem;
+}
+.nav70{
+    left: 117.5rem;
+    top: 90rem;
+}
+/* L */
+/* I */
+.nav71{
+    left: 132.5rem;
+    top: 60rem;
+}
+.nav72{
+    left: 140rem;
+    top: 60rem;
+}
+.nav73{
+    left: 147.5rem;
+    top: 60rem;
+}
+.nav74{
+    left: 140rem;
+    top: 67.5rem;
+}
+.nav75{
+    left: 140rem;
+    top: 75rem;
+}
+.nav76{
+    left: 140rem;
+    top: 82.5rem;
+}
+.nav77{
+    left: 140rem;
+    top: 90rem;
+}
+.nav78{
+    left: 132.5rem;
+    top: 90rem;
+}
+.nav79{
+    left: 147.5rem;
+    top: 90rem;
+}
+/* I */
+/* O */
+.nav80{
+    left: 162.5rem;
+    top: 60rem;
+}
+.nav81{
+    left: 162.5rem;
+    top: 67.5rem;
+}
+.nav82{
+    left: 162.5rem;
+    top: 75rem;
+}
+.nav83{
+    left: 162.5rem;
+    top: 82.5rem;
+}
+.nav84{
+    left: 162.5rem;
+    top: 90rem;
+}
+.nav85{
+    left: 170rem;
+    top: 60rem;
+}
+.nav86{
+    left: 177.5rem;
+    top: 60rem;
+}
+.nav87{
+    left: 177.5rem;
+    top: 67.5rem;
+}
+.nav88{
+    left: 177.5rem;
+    top: 75rem;
+}
+.nav89{
+    left: 177.5rem;
+    top: 82.5rem;
+}
+.nav90{
+    left: 177.5rem;
+    top: 90rem;
+}
+.nav91{
+    left: 170rem;
+    top: 90rem;
+}
+/* O */
+
+
+
+.pix{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.pixel {
+    position: absolute;
+    width: 4rem;
+    height: 4rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel2 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel3 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel4 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel5 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel6 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel7 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel8 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel9 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel10 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel11 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel12 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel13 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel14 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel15 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel16 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel17 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel18 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel19 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+.pixel20 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel21 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel22 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel23 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel24 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel25 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel26 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel27 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel28 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel29 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel30 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel31 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel32 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel33 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel34 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel35 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel36 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel37 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel38 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel39 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel40 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel41 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel42 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel43 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel44 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel45 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel46 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel47 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel48 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel49 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel50 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel51 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel52 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel53 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel54 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel55 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel56 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel57 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel58 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel59 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel60 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel61 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel62 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel63 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel64 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel65 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel66 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel67 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel68 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel69 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel70 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel71 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel72 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel73 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel74 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel75 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel76 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel77 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel78 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel79 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel80 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel81 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel82 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel83 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel84 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel85 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel86 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel87 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel88 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel89 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel90 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+.pixel91 {
+    position: absolute;
+    width: 1.875rem;
+    height: 1.875rem;
+    bottom: 100%;
+    /* 처음에는 화면 밖에 위치시킴 */
+    animation: fall linear forwards;
+}
+
+
+@keyframes fall {
+    0% {
+        bottom: 100%;
+        /* 애니메이션 시작 시 화면 상단 밖에서 시작 */
+        opacity: 1;
+    }
+
+    100% {
+        bottom: 0;
+        /* 애니메이션 종료 시 화면 하단에 도달 */
+        opacity: 1;
+    }
+}
