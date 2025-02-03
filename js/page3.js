@@ -1,0 +1,10 @@
+$('.box>img').hover(function () {
+    let idx = $(this).index()
+    $('.text>div>a').eq(idx).addClass('on')
+    $(this).removeClass('img1')
+    $(this).removeClass('img2')
+    $(this).removeClass('img3')
+    $(this).removeClass('img4')
+    $(this).addClass('on')
+    $('.text>div').eq(idx).addClass('on')
+})
