@@ -5,6 +5,8 @@
 }
 html{
     cursor: url('../img/c3.png')32 32, auto;
+height: 1080px;
+background-color: black;
 }
 *{
     margin: 0;
@@ -14,9 +16,11 @@ html{
    
 }
 body{
-    background: url('../img/cc1.png') no-repeat 0 0/cover;
-    height: 100vh;
+    background: url('../img/cc1.png') no-repeat 0 0/contain;
+    height: 1080px;
 }
+
+
 a{
     text-decoration: none;
     color: inherit;
@@ -39,7 +43,7 @@ a{
     left: 43%;
     transform: translate(-50%);
     justify-content: space-around;
-    bottom: 15rem;
+    top: 66%;
     position: absolute;
     display: flex;
 }
@@ -53,4 +57,135 @@ a{
 .text>a:hover{
     cursor: url('../img/test2.png')32 32, pointer;
 }
+#t2{
+display: none;
+}
 
+
+
+@media screen and (max-width:1440px) {
+    html {
+        font-size: 6px;
+        color: white;
+    }
+    body{
+        background: none;
+        height: 1080px;
+    }
+    #t1{
+    display: none;
+    }
+    .contents:hover {
+        cursor: url('../img/c3.png')32 32, auto;
+    }
+    #t2{
+        display: block;
+        }
+    .cont-box {
+        width: 100%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    
+    .box {
+        display: flex;
+        justify-content: space-around;
+        padding-top: 6rem;
+    }
+    
+    .box img {
+        width: 20rem;
+        height: 20rem;
+    }
+    
+    .text {
+        display: flex;
+        justify-content: space-around;
+        font-size: 3.5rem;
+        text-align: center;
+        transform: translateY(20%);
+    
+    }
+    
+    @keyframes coin {
+        0% {
+            transform: translateY(0%);
+        }
+    
+        100% {
+            transform: translateY(-40%);
+        }
+    }
+    .text>div{
+    top: 200rem;
+    }
+    .text>div.on {
+        animation: coin 1s forwards;
+    }
+    
+    .text>div>a {
+        display: block;
+        width: 20rem;
+        height: 16.5rem;
+        opacity: 0;
+        line-height: 40rem;
+        transition: all .3s;
+        animation: coin2 2s infinite linear;
+        background: url('../img/test.png') no-repeat center/contain;
+    }
+    
+    @keyframes coin2 {
+        0% {
+            transform: rotateY(0deg);
+        }
+    
+        100% {
+            transform: rotateY(360deg);
+        }
+    }
+    
+    .text>div>a.on {
+        opacity: 1;
+        cursor: url('../img/test2.png')32 32, auto;
+    }
+    
+    .text>div:hover {
+        cursor: url('../img/test2.png')32 32, auto;
+    }
+    
+    .box>img.on {
+        content: url('../img/c2.png');
+    }
+
+}
+
+
+
+@media screen and (max-width:1024px) {
+    html {
+        font-size: 4px;
+    }
+
+}
+
+@media screen and (max-width:768px) {
+    html {
+        font-size: 2.5px;
+    }
+
+}
+
+@media screen and (max-width:425px) {
+    html {
+        font-size: 2px;
+    }
+
+    @media screen and (max-width:375px) {
+        html {
+            font-size: 1.5px;
+        }
+
+
+    }
+}

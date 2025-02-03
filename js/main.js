@@ -4,21 +4,27 @@ const audio3 = document.querySelector('.img3');
 const audio4 = document.querySelector('.img4');
 const audio5 = document.querySelector('.img5');
 const au = document.querySelector('audio')
-audio1.addEventListener('mouseenter',function(){
+audio1.addEventListener('mouseenter', function () {
     au.play()
 })
-audio2.addEventListener('mouseenter',function(){
+audio2.addEventListener('mouseenter', function () {
     au.play()
 })
-audio3.addEventListener('mouseenter',function(){
+audio3.addEventListener('mouseenter', function () {
     au.play()
 })
-audio4.addEventListener('mouseenter',function(){
+audio4.addEventListener('mouseenter', function () {
     au.play()
 })
-audio5.addEventListener('mouseenter',function(){
+audio5.addEventListener('mouseenter', function () {
     au.play()
 })
+
+
+
+
+
+
 
 
 $(document).ready(function () {
@@ -38,7 +44,8 @@ $(document).ready(function () {
     $('.bubble>img').hover(function () {
         $(this).addClass('on')
     })
-    $('.click').click(function () {
+   
+    $('.test').click(function () {
         $('.bubble>img').addClass('on')
     })
 
@@ -59,12 +66,29 @@ $(document).ready(function () {
 
     })
 
-    $('.press>b').click(function (){
-        $('html').toggleClass('press')
+    $('.press>b').click(function () {
+        $('html').removeClass('press')
         $('.press').addClass('on')
     })
 
-      
+
+    window.addEventListener("beforeunload", function() {
+        sessionStorage.setItem("scrollPosition", window.scrollY);
+    });
+
+
+    
+    window.addEventListener("load", function() {
+        let savepositon = sessionStorage.getItem("scrollPosition");
+        
+        if (savepositon) {
+            window.scrollTo(0, savepositon);
+        }
+
+    });
+
+ 
+
     setInterval(function () {
 
         function randomN(min, max) {
@@ -111,23 +135,23 @@ $(document).ready(function () {
         if (ran2 == 1) {
             $(".introduce").css({ "cursor": "url('img/i6.png')16 16, auto" });
             $("#shoo").css({ "cursor": "url('img/i6.png')16 16, auto" });
-            $(".shoote>img").attr({"src": "img/i2.png"})
-            
+            $(".shoote>img").attr({ "src": "img/i2.png" })
+
         }
         if (ran2 == 2) {
             $(".introduce").css({ "cursor": "url('img/i7.png')16 16, auto" });
             $("#shoo").css({ "cursor": "url('img/i7.png')16 16, auto" });
-            $(".shoote>img").attr({"src": "img/i3.png"})
+            $(".shoote>img").attr({ "src": "img/i3.png" })
         }
         if (ran2 == 3) {
             $(".introduce").css({ "cursor": "url('img/i8.png')16 16, auto" });
             $("#shoo").css({ "cursor": "url('img/i8.png')16 16, auto" });
-            $(".shoote>img").attr({"src": "img/i4.png"})
+            $(".shoote>img").attr({ "src": "img/i4.png" })
         }
         if (ran2 == 4) {
             $(".introduce").css({ "cursor": "url('img/i9.png')16 16, auto" });
             $("#shoo").css({ "cursor": "url('img/i9.png')16 16, auto" });
-            $(".shoote>img").attr({"src": "img/i5.png"})
+            $(".shoote>img").attr({ "src": "img/i5.png" })
         }
     }, 1000)
 })

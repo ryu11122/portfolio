@@ -11,9 +11,7 @@ html {
     background-color: #fdfbfb;
     overflow: scroll;
 }
-html.press{
-overflow:hidden;
-}
+
 
 html.on {
     background-color: black;
@@ -53,37 +51,7 @@ a {
 
 
 
-.press {
-    
-    width: 100%;
-    height: 100vh;
-    background: black url("../img/press.gif") no-repeat 50% -10rem/contain;
-    z-index: 102;
-    position: fixed;
-    cursor: auto;
-}
-.press.on{
-display: none;
-}
-.press b {
-    font-size: 10rem;
-    position: absolute;
-    color: white;
-    left: 50%;
-    transform: translateX(-50%);
-    bottom: 10rem;
-    cursor: pointer;
-    animation: pres 1s linear infinite alternate;
-}
-    @keyframes pres {
-        0%{
-            transform: translate(-50%,0%);
-        }
-        100%{
-            transform: translate(-50%,-40%);
-        }
-    }
-    
+ 
     
 .p_box {
     position: absolute;
@@ -98,17 +66,25 @@ main {
     height: 2000%;
 }
 
-main>section {
+main>div {
     position: relative;
     width: 100%;
     height: 100vh;
 }
-
-
-
-.introduce {
-    height: 65vh;
+.test{
+    left: 50%;
+    bottom: 10rem;
+    font-size: 10rem;
+width: 100%;
+height: 10rem;
+z-index: 102;
+position: absolute;
+transform: translateX(-50%);
+text-align: center;
 }
+
+
+
 
 .section-top {
     display: flex;
@@ -189,21 +165,14 @@ main>section {
     transform: translateX(-50%);
 }
 
-.click {
-    font-size: 4rem;
-    position: absolute;
-    display: block;
-    bottom: 0rem;
-    right: -35rem;
-    z-index: 80;
-}
+
 
 .stop {
-    bottom: 5rem;
+    top: 0rem;
     font-size: 4rem;
     position: absolute;
     display: block;
-    left: -35rem;
+    right: -35rem;
     z-index: 80;
 }
 
@@ -212,7 +181,7 @@ main>section {
     position: absolute;
     display: block;
     z-index: 80;
-    bottom: 0rem;
+    top: 0rem;
     left: -35rem;
 }
 
@@ -559,7 +528,7 @@ html.on .thank img:nth-child(6) {
         transform: translateX(-50%);
     }
 
-    main>section {
+    main>div {
         height: 60vh;
     }
 
@@ -575,30 +544,14 @@ html.on .thank img:nth-child(6) {
         display: none;
     }
 
-    .shooter {
+  
+    #shoo {
         display: none;
     }
 
-    #shoo {
-        height: 5vh;
-        top: 50%;
-        transform: translateY(-50%);
-        cursor: url('../img/i7.png')16 16, auto;
-    }
 
-    .introduce {
-        height: 60vh;
-        cursor: url('../img/i7.png')16 16, auto;
-    }
 
-    .click {
-        top: 50%;
-        width: 40rem;
-        display: block;
-        position: absolute;
-        text-align: center;
-        transform: translateY(-50%);
-    }
+   
 
 
 }
@@ -618,27 +571,20 @@ html.on .thank img:nth-child(6) {
         display: none;
     }
 
-    main>section {
+    main>div {
         height: 50vh;
     }
     .press b{
     font-size: 20rem;
 }
-    .click {
-        bottom: 50%;
-        width: 40rem;
-        display: block;
-        position: absolute;
-        text-align: center;
-        transform: translateY(-50%);
-    }
+ 
 
 
 }
 
 @media screen and (max-width:768px) {
     html {
-        font-size: 4px;
+        font-size: 2.5px;
     }
 
 }
@@ -652,21 +598,8 @@ html.on .thank img:nth-child(6) {
         height: 50vh;
     }
 
-    main>section {
+    main>div {
         height: 30vh;
-    }
-
-    .introduce {
-        height: 25vh;
-    }
-
-    .click {
-        bottom: 200%;
-        transform: translateY(-150%);
-        width: 40rem;
-        display: block;
-        position: absolute;
-        text-align: center;
     }
 
     .press b{
@@ -681,13 +614,10 @@ html.on .thank img:nth-child(6) {
             height: 25vh;
         }
 
-        main>section {
+        main>div {
             height: 25vh;
         }
 
-        .introduce {
-            height: 20vh;
-        }
 
     }
 
