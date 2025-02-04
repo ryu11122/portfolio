@@ -69,7 +69,7 @@ p:hover{
     display: block;
 }
 .box>img{
-    width: 80%;
+    width: 60%;
     position: absolute;
 transform: translate(-50%,-50%);
 left: 50%;
