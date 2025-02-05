@@ -14,4 +14,8 @@ $('.box2>img').hover(function () {
     $(this).addClass('on')
     $('.text>div').eq(idx).addClass('on')
 })
+
+document.getElementsByClassName(".mod").onclick = function() {
+    location.href = "index.html";
+  };
 })

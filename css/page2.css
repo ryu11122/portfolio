@@ -44,6 +44,38 @@ a {
     cursor: url('../img/c7.png')32 32, pointer;
 }
 
+.mod {
+    right: 20rem;
+    top: 3rem;
+    position: fixed;
+    width: 10rem;
+    height: 3rem;
+    border-radius: 5rem;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 3rem;
+    z-index: 40;
+    color: black;
+}
+
+.mod2 {
+    right: 5rem;
+    top: 3rem;
+    position: fixed;
+    width: 10rem;
+    height: 3rem;
+    border-radius: 5rem;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 3rem;
+    z-index: 40;
+    color: black;
+}
+
 .text {
     width: 58%;
     left: 43%;
@@ -77,6 +109,7 @@ a {
     background-color: black;
     position: relative;
     display: none;
+    z-index: 50;
 }
 
 .box.on {
@@ -133,6 +166,23 @@ a {
     html {
         font-size: 6px;
         color: white;
+    }
+
+    .mod{
+    top: 5rem;
+    right: 32%;
+    width: 27rem;
+    height: 8rem;
+    font-size: 6rem;
+    line-height: 8rem;
+    }
+    .mod2{
+    top: 5rem;
+    left: 32%;
+    width: 27rem;
+    height: 8rem;
+    font-size: 6rem;
+    line-height: 8rem;
     }
 
     body {
